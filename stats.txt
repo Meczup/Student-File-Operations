@@ -1,0 +1,4 @@
+Number of male students: 6
+Number of female students: 3
+Average of cgpa: 2.11
+Number of Total Students: 9
